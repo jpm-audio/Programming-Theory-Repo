@@ -344,7 +344,13 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/ClickableObject.cs"
 "Assets/Scripts/MainManager.cs"
+"Assets/Scripts/Shapes/CubeShape.cs"
+"Assets/Scripts/Shapes/CubeShapeLeft.cs"
+"Assets/Scripts/Shapes/CubeShapeRight.cs"
+"Assets/Scripts/Shapes/Shape.cs"
+"Assets/Scripts/Shapes/SphereShape.cs"
 "Assets/Scripts/UI/MainUI.cs"
 "Assets/Scripts/UI/ShapesUI.cs"
 -langversion:9.0
